@@ -10,6 +10,12 @@ O **Jogo de Amigo Secreto** é uma aplicação desenvolvida para facilitar a org
 - **Sorteio automático:** Realiza o sorteio de amigo secreto de forma aleatória e sem repetições, garantindo que ninguém tire a si mesmo.
 - **Interface intuitiva:** Design simples e fácil de usar, acessível até para quem não tem muita familiaridade com tecnologia.
 
+# Como Usar
+
+1. Clone ou baixe o repositório.
+2. Abra o arquivo `index.html` em um navegador da web.
+3. Adicione os participantes na lista e clique no botão para realizar o sorteio.
+
 ## Tecnologias Usadas
 
 Este projeto foi desenvolvido utilizando:
